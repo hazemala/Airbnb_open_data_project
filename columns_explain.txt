@@ -1,0 +1,80 @@
+Here’s an explanation of the columns from the **Airbnb Open Data** dataset:
+
+### 1. **id**:  
+   - A unique identifier for each listing.
+
+### 2. **NAME**:  
+   - The name or title of the listing (e.g., "Clean & quiet apt home by the park").
+
+### 3. **host id**:  
+   - The unique identifier for the host managing the listing.
+
+### 4. **host_identity_verified**:  
+   - Indicates whether the host’s identity has been verified by Airbnb. It can have values like "verified" or "unconfirmed".
+
+### 5. **host name**:  
+   - The name of the host.
+
+### 6. **neighbourhood group**:  
+   - The larger geographical area or borough (e.g., Manhattan, Brooklyn).
+
+### 7. **neighbourhood**:  
+   - The specific neighborhood or area where the listing is located (e.g., Kensington, Harlem).
+
+### 8. **lat**:  
+   - Latitude of the property’s location.
+
+### 9. **long**:  
+   - Longitude of the property’s location.
+
+### 10. **country**:  
+   - The country where the listing is located (e.g., United States).
+
+### 11. **country code**:  
+   - The country code, typically the 2-letter ISO code (e.g., "US" for the United States).
+
+### 12. **instant_bookable**:  
+   - Indicates whether the listing is available for instant booking. It can be "True" or "False".
+
+### 13. **cancellation_policy**:  
+   - The cancellation policy of the listing (e.g., "strict", "moderate", "flexible").
+
+### 14. **room type**:  
+   - The type of room available (e.g., "Entire home/apt", "Private room", "Shared room").
+
+### 15. **Construction year**:  
+   - The year the property was constructed.
+
+### 16. **price**:  
+   - The price for one night’s stay at the listing.
+
+### 17. **service fee**:  
+   - The service fee charged by Airbnb (often a percentage of the total cost).
+
+### 18. **minimum nights**:  
+   - The minimum number of nights required for booking the listing.
+
+### 19. **number of reviews**:  
+   - The total number of reviews that the listing has received.
+
+### 20. **last review**:  
+   - The date of the most recent review left for the listing.
+
+### 21. **reviews per month**:  
+   - The average number of reviews the listing receives each month.
+
+### 22. **review rate number**:  
+   - The rating number given by reviewers, representing the overall review score (typically out of 5).
+
+### 23. **calculated host listings count**:  
+   - The number of active listings managed by the same host.
+
+### 24. **availability 365**:  
+   - The number of days per year that the listing is available for booking.
+
+### 25. **house_rules**:  
+   - Any special house rules for guests (e.g., "No smoking", "Pet-friendly").
+
+### 26. **license**:  
+   - The license number for the listing, if applicable.
+
